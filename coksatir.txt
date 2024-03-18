@@ -1,0 +1,24 @@
+	/**
+	/**
+	* Varsayılan kurucu fonksiyon 
+	*/
+	/* Başlangıçta false */calisiyor = false;
+	/* Başlangıçta false */calisiyor = false;
+	/**
+	/**
+	*
+	* @param motorNo UUID olarak motor id 
+	* @return motor instance
+	*/
+		/*
+		/*
+	* Varolan bir motor no ile oluşturuluyor.
+	*/
+	/**
+	/**
+	* calisiyor true yapılıyor 
+	 */
+	/**
+	/**
+	* Motorun durdurulması //
+	*/

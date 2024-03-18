@@ -1,0 +1,3 @@
+	calisiyor = false; // false yapılıyor
+	// motor no getir 
+	// durum belirlenmesi //
